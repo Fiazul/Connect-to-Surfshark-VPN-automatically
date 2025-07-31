@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Simple Surfshark Wireguard CLI Tool
 [connect|disconnect|status|setup]
