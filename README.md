@@ -45,6 +45,3 @@ When you run commands, this CLI tool executes system commands to manage WireGuar
 
 ---
 
-This section helps users understand exactly what’s happening on their system and eases debugging when something goes wrong.
-
-Want me to add this to the README draft? Or tweak any parts to fit your style?
