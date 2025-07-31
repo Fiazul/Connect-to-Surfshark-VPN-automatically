@@ -1,0 +1,1 @@
+"""get your wireguard .conf files from surfshark and pate them here """
