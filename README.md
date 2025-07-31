@@ -126,10 +126,3 @@ The `wireguard-cli` tool runs system commands to handle WireGuard connections. H
 - **Perms issue?** Run `sudo chmod 600 /etc/wireguard/*.conf`.
 - **Still stuck?** Hit up the [GitHub Issues](https://github.com/Fiazul/Connect-to-Surfshark-VPN-With-CLI/issues) page.
 
-## Contributing
-
-Wanna make this tool better? Fork the repo, make your changes, and send a PR! Check out [Contributing Guidelines](CONTRIBUTING.md) for deets.
-
-## Support
-
-Got questions or bugs? Open an issue on the [GitHub repo](https://github.com/Fiazul/Connect-to-Surfshark-VPN-With-CLI).
